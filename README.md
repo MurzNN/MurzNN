@@ -22,6 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murznn&show_icons=true&locale=en&layout=compact" alt="murznn" /> 
   <img src="https://github-readme-stats.vercel.app/api?username=murznn&show_icons=true&locale=en" alt="murznn" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=murznn&" alt="murznn" />
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=murznn" />
+  <a href="https://profile.codersrank.io/user/murznn" target="_blank"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=murznn" /></a>
 </p>
 
