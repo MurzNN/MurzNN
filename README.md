@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexey Korepov</h1>
-<h3 align="center">Lead Software Engineer, Web developer: PHP - Drupal 8/9, Node.js - Keystone, TypeScript, GraphQL.<br/>System Administration & DevOps: Kubernetes, SaltStack, Grafana.</h3>
+<h3 align="center">Lead Software Engineer, Full Stack Web Developer: PHP - Drupal CMS, Node.js - Payload CMS, TypeScript, SQL and NoSQL databases, GraphQL.<br/>System Administration: Linux, Bash, Ansible, SaltStack. DevOps: Docker, Kubernetes, Helm. Observability: OpenTelemetry, Grafana Stack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murznn&label=Profile%20views&color=0e75b6&style=flat" alt="murznn" /> </p>
 
