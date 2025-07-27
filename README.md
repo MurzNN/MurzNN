@@ -1,23 +1,20 @@
 <h1 align="center">Hi 👋, I'm Alexey Korepov</h1>
-<h2 align="center">Lead Software Engineer, Full Stack Web Developer, DevOps</h2>
-<h4>
-  Programming: full stack: PHP - Drupal CMS. Node.js - Payload CMS. Frontend: TypeScript, React, Vue, GraphQL. Backend: SQL and NoSQL databases.
-  <br/>System Administration: Linux, Bash, Ansible, SaltStack. 
-  <br/>DevOps: Docker, Kubernetes, Helm, AWS, Google Cloud, Terraform.
-  <br/>Observability and performance: OpenTelemetry, Grafana Stack.
-</h4>
+<h2 align="center">Lead Software Engineer, Full Stack Web Developer, DevOps <img src="https://komarev.com/ghpvc/?username=murznn&label=Profile%20views&color=0e75b6&style=flat" alt="murznn" /></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murznn&label=Profile%20views&color=0e75b6&style=flat" alt="murznn" /> </p>
+- **Programming**: Full-stack PHP - Drupal CMS, Node.js - Payload CMS. Frontend: TypeScript, React, Vue, GraphQL. Backend: SQL and NoSQL databases.
+- **DevOps**: Kubernetes, Helm, AWS, Google Cloud, Terraform, Docker.
+- **Observability and performance**: OpenTelemetry, Grafana Stack.
+- **System Administration**: Linux, Bash, Ansible, SaltStack. 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murznn" alt="murznn" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murznn" alt="murznn" /></a></p>
 
-- 📫 How to reach me: **MurzNN@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 How to reach me:</h3>
 <p align="left">
-<a href="https://twitter.com/murznn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murznn" height="30" width="40" /></a>
+E-mail: <a href="mailto:MurzNN@gmail.com">MurzNN@gmail.com</a>, messengers: 
 <a href="https://linkedin.com/in/murz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murz" height="30" width="40" /></a>
 <a href="https://fb.com/murznn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="murznn" height="30" width="40" /></a>
+<a href="https://t.me/MurzNN" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/250px-Telegram_logo.svg.png" alt="murznn" height="30" width="30" /></a>
+<a href="https://twitter.com/murznn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murznn" height="30" width="40" /></a>
 <a href="https://instagram.com/murznn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="murznn" height="30" width="40" /></a>
 </p>
 
