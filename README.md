@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alexey Korepov</h1>
-<h3 align="center">Lead Software Engineer, Full Stack Web Developer: PHP - Drupal CMS, Node.js - Payload CMS, TypeScript, SQL and NoSQL databases, GraphQL.<br/>System Administration: Linux, Bash, Ansible, SaltStack. DevOps: Docker, Kubernetes, Helm. Observability: OpenTelemetry, Grafana Stack.</h3>
+<h2 align="center">Lead Software Engineer, Full Stack Web Developer, DevOps</h2>
+<h4>
+  Programming: full stack: PHP - Drupal CMS. Node.js - Payload CMS. Frontend: TypeScript, React, Vue, GraphQL. Backend: SQL and NoSQL databases.
+  <br/>System Administration: Linux, Bash, Ansible, SaltStack. 
+  <br/>DevOps: Docker, Kubernetes, Helm, AWS, Google Cloud, Terraform.
+  <br/>Observability and performance: OpenTelemetry, Grafana Stack.
+</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murznn&label=Profile%20views&color=0e75b6&style=flat" alt="murznn" /> </p>
 
